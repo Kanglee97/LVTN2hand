@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e6ecf3</color>
+    <color name="colorPrimaryDark">#e6ecf3</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBackground">#e6ecf3</color>
+    <color name="colorBackgroundgradientstar">#a9f1df</color>
+    <color name="colorBackgroundgradientend">#ffbbbb</color>
+    lightgrayline
+    <color name="lightgrayline">#ededed</color>
+
+    <color name="colorPrimary01">#F3D0D0</color>
+    <color name="colorPrimaryDark01">#009688</color>
+    <color name="colorAccent01">#048b7a</color>
+
+
+</resources>

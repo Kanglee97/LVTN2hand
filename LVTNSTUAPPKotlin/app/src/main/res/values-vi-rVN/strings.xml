@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LVTNSTUAPPKotlin</string>
+    <string name="error_SDT_isEmpty">Số điện thoại đang rỗng</string>
+    <string name="error_pass_isEmpty">Mật khẩu đang rỗng</string>
+    <string name="error_SDT_length">số điện thoại phải ít nhất 10 số và lớn nhất là 11 số</string>
+    <string name="error_pass_length">Mật khẩu phải ít nhất 6 ký tự</string>
+    <string name="error_pass_pass">Mật khẩu không trùng khớp</string>
+    <string name="hint_txtPhoneNumber">Số điện thoại</string>
+    <string name="hint_txtPass">Mật khẩu</string>
+    <string name="hint_txtAgianPass">Xác nhận mật khẩu</string>
+    <string name="Name_Button_SignUp">Đăng ký</string>
+    <string name="Name_Button_SignIn">Đăng nhập</string>
+    <string name="Textview_txtForgetPass">Quên mật khẩu?</string>
+    <string name="textview_txtHaveAcount">Đã có tài khoản, đăng nhập nào...</string>
+</resources>

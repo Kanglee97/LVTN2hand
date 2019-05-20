@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">LVTNSTUAPPKotlin</string>
+    <string name="title_activity_home" translatable="false">HomeActivity</string>
+
+
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_New" translatable="false">New</string>
+    <string name="title_foruou" translatable="false">For you</string>
+    <string name="title_chat" translatable="false">Chat</string>
+    <string name="title_infor" translatable="false">Information</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+
+    <string name="error_SDT_isEmpty">Enter your number phone</string>
+    <string name="error_pass_length">Passwords must be at least 6 charaters</string>
+    <string name="error_pass_pass">"Password "</string>
+    <string name="error_SDT_length">Phone number must be at least 10 numbers</string>
+    <string name="error_pass_isEmpty">Passwords is empty</string>
+    <string name="hint_txtPhoneNumber">PhoneNumber</string>
+    <string name="hint_txtPass">Password</string>
+    <string name="hint_txtAgianPass">Password confirm</string>
+    <string name="Name_Button_SignUp">Sign Up</string>
+    <string name="Name_Button_SignIn">Sign In</string>
+    <string name="Textview_txtForgetPass">Forgot password?</string>
+    <string name="textview_txtHaveAcount">Already have an account? Sign in</string>
+</resources>

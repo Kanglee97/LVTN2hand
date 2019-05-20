@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        android:orientation="vertical"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:background="@drawable/backkkkrooo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Fragment.RegisterFragment">
+
+
+    <TextView
+            android:layout_marginTop="100dp"
+            android:id="@+id/txttitleLogin"
+            android:layout_marginLeft="30dp"
+            android:textColor="@android:color/white"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            android:text="@string/Name_Button_SignUp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    <EditText
+            android:layout_marginLeft="60dp"
+            android:id="@+id/txtSDT_Register"
+            android:hint="@string/hint_txtPhoneNumber"
+            android:background="@drawable/background_editex_signup"
+            android:layout_marginTop="100dp"
+            android:layout_below="@+id/txttitleLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    <EditText
+            android:layout_marginLeft="60dp"
+            android:id="@+id/txtPass_Register"
+            android:hint="@string/hint_txtPass"
+            android:background="@drawable/background_editex_signup"
+            android:layout_marginTop="9dp"
+            android:layout_below="@+id/txtSDT_Register"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    <EditText
+            android:layout_marginLeft="60dp"
+            android:id="@+id/txtPass_Again_Register"
+            android:hint="@string/hint_txtAgianPass"
+            android:background="@drawable/background_editex_signup"
+            android:layout_marginTop="9dp"
+            android:layout_below="@+id/txtPass_Register"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    <Button
+            android:id="@+id/btnRegister"
+            android:textColor="#fff"
+            android:text="@string/Name_Button_SignUp"
+            android:background="@drawable/background_button_signup"
+            android:layout_marginTop="30dp"
+            android:layout_below="@+id/txtPass_Again_Register"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"/>
+    <LinearLayout
+            android:id="@+id/layouthaveanaccount"
+            android:gravity="center"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="23dp"
+            android:clickable="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="0dp">
+
+        <TextView
+                android:text="@string/textview_txtHaveAcount"
+                android:textSize="14dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>
